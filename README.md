@@ -1,6 +1,5 @@
 ### Hello I am SodiumSaltShaker (Sodium)
 
-### Stats
 <img align="left" alt="Sodium's Stats" src="https://github-readme-stats.vercel.app/api?username=sodiumsaltshaker&show_icons=true&hide_border=true" />
 
 <!--
