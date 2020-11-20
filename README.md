@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello I am SodiumSaltShaker (Sodium)
+
+<img align="left" alt="Sodium's Stats" src="https://github-readme-stats.vercel.app/api?username=sodiumsaltshaker&show_icons=true />
 
 <!--
 **SodiumSaltShaker/SodiumSaltShaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
